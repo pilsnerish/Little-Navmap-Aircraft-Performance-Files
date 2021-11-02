@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2021-04-18T18:32:21</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.11</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>TorqueSim Cirrus SR22 Entegra</Name>
+      <AircraftType>SR22</AircraftType>
+      <Description></Description>
+      <FuelAsVolume>1</FuelAsVolume>
+      <JetFuel>0</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>0.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>10.000</ReserveFuelLbsGal>
+      <RunwayType>SOFT</RunwayType>
+      <TaxiFuelLbsGal>1.000</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>92.000</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>18.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>170.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>28.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>120.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1445.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>20.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>170.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>17.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>159.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>675.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>

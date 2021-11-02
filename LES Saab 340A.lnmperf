@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2021-02-28T19:13:49</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.9</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>LES Saab 340A</Name>
+      <AircraftType>SF34</AircraftType>
+      <Description></Description>
+      <FuelAsVolume>0</FuelAsVolume>
+      <JetFuel>1</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>10.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>440.925</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>4315.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>440.925</ReserveFuelLbsGal>
+      <RunwayType>SOFT</RunwayType>
+      <TaxiFuelLbsGal>141.096</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>5687.927</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>881.849</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>250.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>1395.526</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>150.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1400.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>947.988</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>240.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>562.179</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>200.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1500.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>

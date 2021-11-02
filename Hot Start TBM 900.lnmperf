@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2021-07-30T12:34:53</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.14</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>Hot Start TBM 900</Name>
+      <AircraftType>TBM9</AircraftType>
+      <Description></Description>
+      <FuelAsVolume>1</FuelAsVolume>
+      <JetFuel>1</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>30.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>2380.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>45.000</ReserveFuelLbsGal>
+      <RunwayType>SOFT</RunwayType>
+      <TaxiFuelLbsGal>5.000</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>290.000</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>60.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>282.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>91.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>137.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>2155.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>60.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>275.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>38.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>207.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1568.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>

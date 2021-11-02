@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2021-04-05T18:34:28</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.11</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>Aerobask Embraer Phenom 300</Name>
+      <AircraftType>E55P</AircraftType>
+      <Description></Description>
+      <FuelAsVolume>1</FuelAsVolume>
+      <JetFuel>1</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>0.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>112.000</ReserveFuelLbsGal>
+      <RunwayType>HARD</RunwayType>
+      <TaxiFuelLbsGal>21.050</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>799.000</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>90.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>250.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>359.684</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>291.115</SpeedKtsTAS>
+        <VertSpeedFtPerMin>2156.187</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>120.257</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>424.757</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>51.155</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>279.338</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1251.393</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>
